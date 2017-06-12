@@ -9,6 +9,9 @@ public class Test {
 		int ya = 2*6;
 		int yb = 2*6;
 		int yc = 2*6;
+		int a = 2*6;
+		int b = 2*6;
+		int c = 2*6;
         return i * i;
     }
 }
