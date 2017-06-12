@@ -6,6 +6,9 @@ package com;
 public class Test {
 
     public int getPf(int i) {
+		int ya = 2*6;
+		int yb = 2*6;
+		int yc = 2*6;
         return i * i;
     }
 }
