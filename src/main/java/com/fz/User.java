@@ -6,4 +6,5 @@ package com.fz;
 public class User {
     private int id = 30;
     private String name = "jack";
+    private String address;
 }
