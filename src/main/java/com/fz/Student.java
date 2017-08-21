@@ -5,4 +5,5 @@ package com.fz;
  */
 public class Student {
     private int age = 100;
+	private String name = "李四";
 }
