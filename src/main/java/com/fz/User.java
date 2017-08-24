@@ -7,5 +7,5 @@ public class User {
     private int id = 30;
     private String name = "jack";
     private String address;
-    /*private int age = 18;*/
+    private int age = 18;
 }
