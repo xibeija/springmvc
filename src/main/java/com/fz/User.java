@@ -8,4 +8,5 @@ public class User {
     private String name = "jack";
     private String address;
     private int age = 18;
+    private int age = 18;
 }
